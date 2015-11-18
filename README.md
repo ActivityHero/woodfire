@@ -18,6 +18,7 @@ You will need the following things properly installed on your computer.
 * `git clone <repository-url>` this repository
 * change into the new directory
 * `npm install`
+* `npm install -g ember-cli bower`
 * `bower install`
 
 ## Running / Development
@@ -50,4 +51,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
