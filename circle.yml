@@ -1,0 +1,8 @@
+dependencies:
+  pre:
+    - npm install -g eslint@1.9.0
+    - bower install
+
+test:
+  post:
+    - eslint app
